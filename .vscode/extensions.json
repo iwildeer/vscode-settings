@@ -2,7 +2,6 @@
   "recommendations": [
     // antfu's extensions, ofc :P
     "antfu.iconify",
-    "antfu.where-am-i",
     "antfu.smart-clicks",
     // themes & icons
     "antfu.icons-carbon",
@@ -14,26 +13,23 @@
     "streetsidesoftware.code-spell-checker",
     // language
     "ms-ceintl.vscode-language-pack-zh-hans",
+    "stylelint.vscode-stylelint",
     // git
     "mhutchie.git-graph",
     "eamodio.gitlens",
     // common
-    "formulahendry.auto-close-tag",
     "bierner.color-info",
     "naumovs.color-highlight",
-    "vunguyentuan.vscode-css-variables",
     "kisstkondoros.vscode-gutter-preview",
-    "xabikos.javascriptsnippets",
+    "mikestead.dotenv",
     "bradlc.vscode-tailwindcss",
     "chakrounanas.turbo-console-log",
+    "techer.open-in-browser",
     "vue.volar",
     // AI
-    "alibaba-cloud.tongyi-lingma",
+    "anthropic.claude-code",
     // photoShot
     "pnp.polacode",
-    // Smart Import
-    "wix.vscode-import-cost",
-    "mikestead.dotenv",
     // up to you extentions
     // ...
   ]
